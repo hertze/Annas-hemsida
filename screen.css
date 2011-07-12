@@ -169,6 +169,10 @@ p.alert, p.tack {
 #portfolio img {
 	opacity: 0.7;
 	margin: 0 30px 30px 0;
+	-webkit-transition:all .5s ease-in-out;
+	-moz-transition:all .5s ease-in-out;
+	-o-transition:all .5s ease-in-out;
+	transition:all .5s ease-in-out;
 }
 
 #portfolio img:hover {
