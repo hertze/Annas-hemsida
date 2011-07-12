@@ -1,5 +1,3 @@
-/* @override http://localhost:4000/screen.css */
-
 * {
 	margin: 0;
 	padding: 0;
@@ -186,4 +184,8 @@ p.alert, p.tack {
 #tumblr li{
 	border-bottom: 1px solid #312721;
 	margin-bottom: 1em;
+}
+
+.typekit-badge {
+	display:none !important;
 }
