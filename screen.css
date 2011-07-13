@@ -18,8 +18,8 @@ body {
 }
 
 #canvas {
-	margin: 1.3em 0;
-	padding: 2.6em 0;
+	margin: 1.5em 0;
+	padding: 3em 0;
 	background: #231A14 url(bilder/darkback.gif) repeat;
 	font: 1em/1.5 calluna-sans, Helvetica, Verdana, Arial;
 }
@@ -94,15 +94,15 @@ body {
 }
 
 p {
-	margin-bottom: 1.3em;
+	margin: 1.5em 0;
 }
 
 p.ingress {
 	margin-left: -1px;
 	font: italic 1.2em/1.25 adelle;
 	font-weight: 400;
-	border-top: 1px solid #3c302a;
-	border-bottom: 1px solid #3c302a;
+	border-top: 0.0833em solid #3c302a;
+	border-bottom: 0.0833em solid #3c302a;
 	padding: 1.25em 1em;
 	width: 33.33em;
 	margin-left: -1em;
@@ -111,8 +111,8 @@ p.ingress {
 a {
 	color: #b6bc7b;
 	text-decoration: none;
-	border-bottom: 1px solid #373825;
-	padding-bottom: 1px;
+	border-bottom: 0.0833em solid #373825;
+	padding-bottom: .0.0833em;
 }
 
 #nav a {
@@ -160,8 +160,8 @@ a {
 }
 
 #tumblr li{
-	border-bottom: 1px solid #312721;
-	margin-bottom: 1em;
+	border-bottom: 0.0833em solid #312721;
+	margin-bottom: 1.5em;
 }
 
 .typekit-badge {
