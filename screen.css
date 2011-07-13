@@ -25,12 +25,13 @@ body {
 }
 
 #main img {
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
 	-moz-box-shadow: 0px 3px 5px #151515;
 	-webkit-box-shadow: 0px 3px 5px #151515;
 	box-shadow: 0px 3px 5px #151515;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	margin-top: 0.3em;
 }
 
 #logo img {
@@ -80,7 +81,7 @@ body {
 }
 
 #bild {
-	width: 15em;
+	width: 13em;
 	float: left;
 }
 
@@ -89,31 +90,38 @@ body {
 }
 
 #copy {
-	width: 23em;
+	width: 25em;
 	float: right;
 }
 
 p {
-	margin: 1.5em 0;
+	margin-bottom: 1.5em;
 }
 
 p.ingress {
 	margin-left: -1px;
-	font: italic 1.2em/1.25 adelle;
+	font: italic 1.3em/1.3 adelle;
 	font-weight: 400;
 	border-top: 0.0833em solid #3c302a;
 	border-bottom: 0.0833em solid #3c302a;
 	padding: 1.25em 1em;
-	width: 33.33em;
+	width: 30.8em;
 	margin-left: -1em;
 }
+
+#copy li { margin: 0 0 0 1.5em;}
 
 a {
 	color: #b6bc7b;
 	text-decoration: none;
-	border-bottom: 0.0833em solid #373825;
 	padding-bottom: .0.0833em;
+	-webkit-transition:all .5s ease-in-out;
+	-moz-transition:all .5s ease-in-out;
+	-o-transition:all .5s ease-in-out;
+	transition:all .5s ease-in-out;
 }
+
+a:hover {color: #fff;}
 
 #nav a {
 	border-bottom: none;
@@ -125,7 +133,7 @@ a {
 }
 
 #nav a:hover {
-	color: #b6bc7b;
+	color: #fff;
 }
 
 
