@@ -54,6 +54,14 @@ body {
 	padding-bottom: 1.5em;
 	opacity: 0.5;
 	width: 44.44em;
+	-webkit-transition:all .5s ease-in-out;
+	-moz-transition:all .5s ease-in-out;
+	-o-transition:all .5s ease-in-out;
+	transition:all .5s ease-in-out;
+}
+
+#footer:hover {
+	opacity: 1;
 }
 
 #nav {
@@ -95,8 +103,9 @@ p.ingress {
 	font-weight: 400;
 	border-top: 1px solid #3c302a;
 	border-bottom: 1px solid #3c302a;
-	padding: 1.25em 0.5em;
-	margin-left: -0.5em;
+	padding: 1.25em 1em;
+	width: 33.33em;
+	margin-left: -1em;
 }
 
 a {
