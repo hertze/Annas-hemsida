@@ -115,6 +115,9 @@ a {
 	color: #b6bc7b;
 	text-decoration: none;
 	padding-bottom: .0.0833em;
+}
+
+p a, #tumblr a {
 	-webkit-transition:all .5s ease-in-out;
 	-moz-transition:all .5s ease-in-out;
 	-o-transition:all .5s ease-in-out;
