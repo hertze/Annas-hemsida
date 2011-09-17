@@ -152,18 +152,17 @@ a:hover {color: #fff;}
 #portfolio img {
 	opacity: 0.7;
 	margin: 0 30px 30px 0;
-	-webkit-transition:all .5s ease-in-out;
-	-moz-transition:all .5s ease-in-out;
-	-o-transition:all .5s ease-in-out;
-	transition:all .5s ease-in-out;
+	-webkit-transition:all .3s ease-in-out;
+	-moz-transition:all .3s ease-in-out;
+	-o-transition:all .3s ease-in-out;
+	transition:all .3s ease-in-out;
 }
 
 #portfolio img:hover {
 	opacity: 1;
-	margin-top: -10px;
-	-moz-box-shadow: 0px 3px 15px #151515;
-	-webkit-box-shadow: 0px 3px 15px #151515;
-	box-shadow: 0px 3px 15px #151515;
+	-moz-box-shadow: 0px 0px 20px #594A3E;
+	-webkit-box-shadow: 0px 0px 20px #594A3E;
+	box-shadow: 0px 0px 20px #594A3E;
 }
 
 #tumblr ol {
