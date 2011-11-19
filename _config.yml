@@ -3,4 +3,4 @@ server: true
 server_port: 4000
 pygments: false
 lsi: false
-permalink: /:year/:month/:title
+permalink: /tips/:year/:month/:title
