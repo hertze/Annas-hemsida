@@ -28,6 +28,14 @@ layout: default
 
 ## foto
 
+[fotosidan](http://www.fotosidan.se) -- när jag behöver lite inspiration brukar jag kolla snygga bilder, porträtt eller naturfotografier här
+
+[Mikael Leijon](http://mikaelleijon.se/ml/intro.php) -- en duktig fotograf
+
+[Josefine Jönsson](http://www.josefinejonsson.com) -- ännu en duktig fotograf. Hennes blogg hittar man här (http://www.bloddroppe.com)
+
+[Studio e](http://www.studio-e.se) -- Bildföretag i Helsingborg där fotografen Kim Nilsson jobbar. Han har filmat musikvideon som vi i Future Wannabes filmade våren-sommaren 2011.
+
 ## garn/sömnad
 
 [ice yarns](http://www.iceyarns.com) -- Onlinebutik för garn som säljs och levereras till hela världen. Billigt, anländer ofta på ett par dagar vid dörren med DHL.
