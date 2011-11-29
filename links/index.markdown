@@ -3,21 +3,18 @@ title: Länkar
 layout: default
 ---
 
-# Detta är en huvudrubrik
+# Länkar till några favorithemsidor:
 
-[Detta är en länk](http://länk.com) Här kommer lite vanlig text.
+## makeup
 
-Du kan skriva *kursivt*, eller med **fetstil**.
+[makeupstudion](http://www.makeupstudion.com) -- Skolan där jag fick min makeupartistutbildning.
 
-Om jag vill skriva en [länk](http://annaskapar.com) gör jag så här.
+[makeupfabriken](http://wwww.makeupfabriken.se) -- Makeupmärket av där inom kort håller kurser i skönhetsmakeup
 
-[Detta är en länk till](http://länk.com) Här kommer lite vanlig text.
 
-## Detta är en underrubrik
+## foto
 
-* Här kommer en lista utan numrering
-* Med flera alternativ
+## garn
 
-1. Här kommer en lista med numrering
-2. Med mera
+## sömnad
 				
