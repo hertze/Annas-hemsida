@@ -9,7 +9,7 @@ layout: default
 
 [makeupstudion](http://www.makeupstudion.com) -- Skolan där jag fick min makeupartistutbildning.
 
-[makeupfabriken](http://wwww.makeupfabriken.se) -- Makeupmärket av där inom kort håller kurser i skönhetsmakeup
+[makeupfabriken](http://wwww.makeupfabriken.se) -- Makeupstudions eget märke. Deras "Creative team" erbjuder kurser i skönhetsmakeup.  
 
 [lookfantastic.com](http://www.lookfantastic.com/home.dept) -- Engelsk hemsida med brett utbud av smink och hårprodukter. Bra priser på Bare Minerals och snabb leverans till Sverige
 
