@@ -41,4 +41,6 @@ layout: default
 [MG-TYGER](http://www.mg-tyg.se) -- E-handlel med mycket trikå-tyger, ofta mycket prisvärda stuvbitar och reatyger 
 
 [Garntjänst](http://www.garntjänst.se/) -- E-handel med stort garnsortiment. Favoriten är nog deras restgarnspaket med 1kg garn för 249:- - 
+
+[Tradera](http://www.tradera.com/Garn-c3_181906) -- Oslagbar guldgruva för garnintresserade. Lika fina garner men mycket billigare. Kräver nog viss koll på vad garnerna normalt kostar.
 				
